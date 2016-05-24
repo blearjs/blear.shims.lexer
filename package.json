@@ -1,7 +1,7 @@
 {
   "name": "blear.shims.lexer",
-  "version": "1.0.0",
-  "description": "JavaScript 词法分析",
+  "version": "1.0.1",
+  "description": "JavaScript HTML 词法分析",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
